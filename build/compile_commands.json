@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build",
+  "command": "c:/users/kulae/gcc/bin/g++.exe   -g -o CMakeFiles/hello_world.dir/func.cpp.obj -c \"C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/02_compiler/func.cpp\"",
+  "file": "C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/02_compiler/func.cpp"
+},
+{
+  "directory": "C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build",
+  "command": "c:/users/kulae/gcc/bin/g++.exe   -g -o CMakeFiles/hello_world.dir/hello_world.cpp.obj -c \"C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/02_compiler/hello_world.cpp\"",
+  "file": "C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/02_compiler/hello_world.cpp"
+}
+]

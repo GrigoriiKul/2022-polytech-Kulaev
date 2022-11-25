@@ -1,0 +1,3 @@
+C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build/CMakeFiles/hello_world.dir
+C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build/CMakeFiles/edit_cache.dir
+C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build/CMakeFiles/rebuild_cache.dir

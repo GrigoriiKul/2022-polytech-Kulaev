@@ -15,10 +15,10 @@ The CXX compiler identification is GNU, found in "C:/Users/Kulae/Desktop/лаб�
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Users/Kulae/gcc/bin/make.exe -f Makefile cmTC_27e78/fast && C:/Users/Kulae/gcc/bin/make.exe  -f CMakeFiles/cmTC_27e78.dir/build.make CMakeFiles/cmTC_27e78.dir/build
+Run Build Command(s):C:/Users/Kulae/gcc/bin/make.exe -f Makefile cmTC_3f1a7/fast && C:/Users/Kulae/gcc/bin/make.exe  -f CMakeFiles/cmTC_3f1a7.dir/build.make CMakeFiles/cmTC_3f1a7.dir/build
 make[1]: Entering directory 'C:/Users/Kulae/Desktop/ырсрЁрЄюЁэр  яю шэЇюЁьрЄшъх/2022-polytech-kulaev/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj
-c:/users/kulae/gcc/bin/g++.exe   -v -o CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"
+Building CXX object CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj
+c:/users/kulae/gcc/bin/g++.exe   -v -o CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"
 Built by Equation Solution <http://www.Equation.com>.
 Using built-in specs.
 COLLECT_GCC=c:/users/kulae/gcc/bin/g++.exe
@@ -27,8 +27,8 @@ Configured with: ../gcc-12.2.0/configure --host=x86_64-w64-mingw32 --build=x86_6
 Thread model: win32
 Supported LTO compression algorithms: zlib
 gcc version 12.2.0 (GCC) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/'
- c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/cc1plus.exe -quiet -v -iprefix c:\users\kulae\gcc\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_27e78.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\Users\Kulae\AppData\Local\Temp\ccV5wvXX.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/'
+ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/cc1plus.exe -quiet -v -iprefix c:\users\kulae\gcc\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3f1a7.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\Users\Kulae\AppData\Local\Temp\cc2scMqx.s
 GNU C++17 (GCC) version 12.2.0 (x86_64-w64-mingw32)
 	compiled by GNU C version 12.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -53,16 +53,16 @@ GNU C++17 (GCC) version 12.2.0 (x86_64-w64-mingw32)
 	compiled by GNU C version 12.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: f1851c9a4b8ab30df3e52164e348bd5c
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/'
- c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\Kulae\AppData\Local\Temp\ccV5wvXX.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/'
+ c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\Kulae\AppData\Local\Temp\cc2scMqx.s
 GNU assembler version 2.37 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.37
 COMPILER_PATH=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/;c:/users/kulae/gcc/bin/../libexec/gcc/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/;c:/users/kulae/gcc/bin/../lib/gcc/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.'
-Linking CXX executable cmTC_27e78.exe
-"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_27e78.dir/objects.a
-C:/Users/Kulae/gcc/bin/ar.exe qc CMakeFiles/cmTC_27e78.dir/objects.a @CMakeFiles/cmTC_27e78.dir/objects1.rsp
-c:/users/kulae/gcc/bin/g++.exe  -v -Wl,--whole-archive CMakeFiles/cmTC_27e78.dir/objects.a -Wl,--no-whole-archive -o cmTC_27e78.exe -Wl,--out-implib,libcmTC_27e78.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.'
+Linking CXX executable cmTC_3f1a7.exe
+"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_3f1a7.dir/objects.a
+C:/Users/Kulae/gcc/bin/ar.exe qc CMakeFiles/cmTC_3f1a7.dir/objects.a @CMakeFiles/cmTC_3f1a7.dir/objects1.rsp
+c:/users/kulae/gcc/bin/g++.exe  -v -Wl,--whole-archive CMakeFiles/cmTC_3f1a7.dir/objects.a -Wl,--no-whole-archive -o cmTC_3f1a7.exe -Wl,--out-implib,libcmTC_3f1a7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Built by Equation Solution <http://www.Equation.com>.
 Using built-in specs.
 COLLECT_GCC=c:/users/kulae/gcc/bin/g++.exe
@@ -74,9 +74,9 @@ Supported LTO compression algorithms: zlib
 gcc version 12.2.0 (GCC) 
 COMPILER_PATH=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/;c:/users/kulae/gcc/bin/../libexec/gcc/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/;c:/users/kulae/gcc/bin/../lib/gcc/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/;c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27e78.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27e78.'
- c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/collect2.exe -plugin c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/liblto_plugin.dll -plugin-opt=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccc0ybWl.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.2.0 -m i386pep -Bdynamic -o cmTC_27e78.exe c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0 -Lc:/users/kulae/gcc/bin/../lib/gcc -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../.. --whole-archive CMakeFiles/cmTC_27e78.dir/objects.a --no-whole-archive --out-implib libcmTC_27e78.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27e78.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27e78.'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3f1a7.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3f1a7.'
+ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/collect2.exe -plugin c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/liblto_plugin.dll -plugin-opt=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccSBqbed.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.2.0 -m i386pep -Bdynamic -o cmTC_3f1a7.exe c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0 -Lc:/users/kulae/gcc/bin/../lib/gcc -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../.. --whole-archive CMakeFiles/cmTC_3f1a7.dir/objects.a --no-whole-archive --out-implib libcmTC_3f1a7.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3f1a7.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3f1a7.'
 make[1]: Leaving directory 'C:/Users/Kulae/Desktop/ырсрЁрЄюЁэр  яю шэЇюЁьрЄшъх/2022-polytech-kulaev/build/CMakeFiles/CMakeTmp'
 
 
@@ -104,10 +104,10 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: C:/Users/Kulae/Desktop/лабараторная по информатике/2022-polytech-kulaev/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):C:/Users/Kulae/gcc/bin/make.exe -f Makefile cmTC_27e78/fast && C:/Users/Kulae/gcc/bin/make.exe  -f CMakeFiles/cmTC_27e78.dir/build.make CMakeFiles/cmTC_27e78.dir/build]
+  ignore line: [Run Build Command(s):C:/Users/Kulae/gcc/bin/make.exe -f Makefile cmTC_3f1a7/fast && C:/Users/Kulae/gcc/bin/make.exe  -f CMakeFiles/cmTC_3f1a7.dir/build.make CMakeFiles/cmTC_3f1a7.dir/build]
   ignore line: [make[1]: Entering directory 'C:/Users/Kulae/Desktop/ырсрЁрЄюЁэр  яю шэЇюЁьрЄшъх/2022-polytech-kulaev/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [c:/users/kulae/gcc/bin/g++.exe   -v -o CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"]
+  ignore line: [Building CXX object CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [c:/users/kulae/gcc/bin/g++.exe   -v -o CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"]
   ignore line: [Built by Equation Solution <http://www.Equation.com>.]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:/users/kulae/gcc/bin/g++.exe]
@@ -116,8 +116,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [Thread model: win32]
   ignore line: [Supported LTO compression algorithms: zlib]
   ignore line: [gcc version 12.2.0 (GCC) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/']
-  ignore line: [ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/cc1plus.exe -quiet -v -iprefix c:\users\kulae\gcc\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_27e78.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\Users\Kulae\AppData\Local\Temp\ccV5wvXX.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/']
+  ignore line: [ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/cc1plus.exe -quiet -v -iprefix c:\users\kulae\gcc\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3f1a7.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\Users\Kulae\AppData\Local\Temp\cc2scMqx.s]
   ignore line: [GNU C++17 (GCC) version 12.2.0 (x86_64-w64-mingw32)]
   ignore line: [	compiled by GNU C version 12.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version none]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -142,8 +142,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [	compiled by GNU C version 12.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version none]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: f1851c9a4b8ab30df3e52164e348bd5c]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/']
-  ignore line: [ c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\Kulae\AppData\Local\Temp\ccV5wvXX.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/']
+  ignore line: [ c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\Kulae\AppData\Local\Temp\cc2scMqx.s]
   ignore line: [GNU assembler version 2.37 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.37]
   ignore line: [COMPILER_PATH=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/]
   ignore line: [c:/users/kulae/gcc/bin/../libexec/gcc/]
@@ -154,11 +154,11 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib/]
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_27e78.dir/CMakeCXXCompilerABI.cpp.']
-  ignore line: [Linking CXX executable cmTC_27e78.exe]
-  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_27e78.dir/objects.a]
-  ignore line: [C:/Users/Kulae/gcc/bin/ar.exe qc CMakeFiles/cmTC_27e78.dir/objects.a @CMakeFiles/cmTC_27e78.dir/objects1.rsp]
-  ignore line: [c:/users/kulae/gcc/bin/g++.exe  -v -Wl --whole-archive CMakeFiles/cmTC_27e78.dir/objects.a -Wl --no-whole-archive -o cmTC_27e78.exe -Wl --out-implib libcmTC_27e78.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3f1a7.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [Linking CXX executable cmTC_3f1a7.exe]
+  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_3f1a7.dir/objects.a]
+  ignore line: [C:/Users/Kulae/gcc/bin/ar.exe qc CMakeFiles/cmTC_3f1a7.dir/objects.a @CMakeFiles/cmTC_3f1a7.dir/objects1.rsp]
+  ignore line: [c:/users/kulae/gcc/bin/g++.exe  -v -Wl --whole-archive CMakeFiles/cmTC_3f1a7.dir/objects.a -Wl --no-whole-archive -o cmTC_3f1a7.exe -Wl --out-implib libcmTC_3f1a7.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
   ignore line: [Built by Equation Solution <http://www.Equation.com>.]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:/users/kulae/gcc/bin/g++.exe]
@@ -177,13 +177,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib/]
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27e78.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27e78.']
-  link line: [ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/collect2.exe -plugin c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/liblto_plugin.dll -plugin-opt=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccc0ybWl.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.2.0 -m i386pep -Bdynamic -o cmTC_27e78.exe c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0 -Lc:/users/kulae/gcc/bin/../lib/gcc -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../.. --whole-archive CMakeFiles/cmTC_27e78.dir/objects.a --no-whole-archive --out-implib libcmTC_27e78.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3f1a7.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3f1a7.']
+  link line: [ c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/collect2.exe -plugin c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/liblto_plugin.dll -plugin-opt=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccSBqbed.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.2.0 -m i386pep -Bdynamic -o cmTC_3f1a7.exe c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0 -Lc:/users/kulae/gcc/bin/../lib/gcc -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../.. --whole-archive CMakeFiles/cmTC_3f1a7.dir/objects.a --no-whole-archive --out-implib libcmTC_3f1a7.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtend.o]
     arg [c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/liblto_plugin.dll] ==> ignore
     arg [-plugin-opt=c:/users/kulae/gcc/bin/../libexec/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccc0ybWl.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Kulae\AppData\Local\Temp\ccSBqbed.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
@@ -205,7 +205,7 @@ Parsed CXX implicit link information from above output:
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> search dynamic
     arg [-o] ==> ignore
-    arg [cmTC_27e78.exe] ==> ignore
+    arg [cmTC_3f1a7.exe] ==> ignore
     arg [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
     arg [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o] ==> obj [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/crtbegin.o]
     arg [-Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0] ==> dir [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0]
@@ -215,10 +215,10 @@ Parsed CXX implicit link information from above output:
     arg [-Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/lib]
     arg [-Lc:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../..] ==> dir [c:/users/kulae/gcc/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles/cmTC_27e78.dir/objects.a] ==> ignore
+    arg [CMakeFiles/cmTC_3f1a7.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_27e78.dll.a] ==> ignore
+    arg [libcmTC_3f1a7.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
